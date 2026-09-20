@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_Mickey6TVZW.mk
+    $(LOCAL_DIR)/twrp_Mickey6TVZW.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_Mickey6TVZW-user \
-    omni_Mickey6TVZW-userdebug \
-    omni_Mickey6TVZW-eng
+    twrp_Mickey6TVZW-user \
+    twrp_Mickey6TVZW-userdebug \
+    twrp_Mickey6TVZW-eng
